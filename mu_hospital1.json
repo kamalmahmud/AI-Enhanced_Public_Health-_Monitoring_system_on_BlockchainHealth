@@ -1,0 +1,11 @@
+{
+  "hospital": "Mugla Hospital1",
+  "date": "2025-01-03",
+  "city": "Mugla",
+  "flu_cases": 148,
+  "covid_cases": 27,
+  "pneumonia_cases": 14,
+  "icu_beds_used": 19,
+  "symptoms": ["fever", "cough", "shortness of breath"],
+  "note": "Sudden increase compared to last week"
+}
