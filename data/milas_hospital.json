@@ -1,0 +1,13 @@
+{
+  "hospital": "Milas State Hospital",
+  "city": "Milas",
+  "date": "2025-12-29",
+  "total_patients": 210,
+  "respiratory_cases": 35,
+  "high_fever_cases": 18,
+  "pneumonia_cases": 4,
+  "covid_suspected": 5,
+  "icu_occupied": 6,
+  "deaths_today": 0,
+  "symptoms": ["mild fever", "cough"]
+}

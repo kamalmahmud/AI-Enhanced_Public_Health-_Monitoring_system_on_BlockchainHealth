@@ -1,0 +1,13 @@
+{
+  "hospital": "Muğla Sitki Kocman University Training and Research Hospital",
+  "city": "Mugla",
+  "date": "2025-12-29",
+  "total_patients": 420,
+  "respiratory_cases": 140,
+  "high_fever_cases": 98,
+  "pneumonia_cases": 37,
+  "covid_suspected": 52,
+  "icu_occupied": 34,
+  "deaths_today": 6,
+  "symptoms": ["fever", "cough", "shortness of breath", "fatigue"]
+}

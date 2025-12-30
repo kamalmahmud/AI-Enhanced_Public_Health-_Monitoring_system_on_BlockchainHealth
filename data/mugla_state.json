@@ -1,0 +1,13 @@
+{
+  "hospital": "Mugla State Hospital",
+  "city": "Mugla",
+  "date": "2025-12-29",
+  "total_patients": 380,
+  "respiratory_cases": 90,
+  "high_fever_cases": 55,
+  "pneumonia_cases": 18,
+  "covid_suspected": 21,
+  "icu_occupied": 19,
+  "deaths_today": 1,
+  "symptoms": ["fever", "headache", "muscle pain"]
+}
